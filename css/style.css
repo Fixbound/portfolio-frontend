@@ -1,0 +1,5 @@
+.center-cropped img {
+    object-fit: cover;
+    width: 1920px;
+    height: 200px;
+  }
